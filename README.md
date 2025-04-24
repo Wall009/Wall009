@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=walacemartins&show_icons=true&theme=radical&locale=pt-br" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacemartins&layout=compact&theme=radical&hide=html,javascript,shell&langs_count=6" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacemartins&layout=compact&theme=radical&hide=html,javascript,shell&langs_count=6&card_width=450" width="48%"/>
 </p>
 
 <p align="center">
