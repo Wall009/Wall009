@@ -39,6 +39,12 @@
 </p>
 
 ---
+<!-- GIF -->
+<p align="left">
+  <img src="https://github.com/Wall009/Wall009/blob/main/Tech%20Hacking%20GIF%20by%20TRT.gif?raw=true" alt="Tech Hacking GIF" >
+</p>
+
+----
 
 ### 📫 Let's connect
 
