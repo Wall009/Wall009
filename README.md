@@ -34,17 +34,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walacemartins&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacemartins&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wall009&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wall009&layout=compact&langs_count=10&theme=radical" width="48%"/>
 </p>
 
 ---
-<!-- GIF -->
-<p align="left">
-  <img src="https://github.com/Wall009/Wall009/blob/main/Tech%20Hacking%20GIF%20by%20TRT.gif?raw=true" alt="Tech Hacking GIF" >
-</p>
-
-----
 
 ### 📫 Let's connect
 
@@ -58,4 +52,5 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+
 
